@@ -45,6 +45,9 @@ apt install postgres
    30  ll
    31  nano zabbix_server.conf 
    32  systamctl restart zabbix-server appache2
+<img width="1512" height="877" alt="image" src="https://github.com/user-attachments/assets/4bf72232-7c7b-4340-b1ce-d58c0987b5a0" />
+
+
 
 ....
 ....
@@ -63,3 +66,4 @@ dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
    62  sytemctl restart zabbix_agent.service
    63  systemctl restart zabbix_agent.service
    64  systemctl restart zabbix-agent.service
+<img width="1187" height="721" alt="image" src="https://github.com/user-attachments/assets/47e7f61f-a730-4cb3-b30e-bb33eab909fc" />
